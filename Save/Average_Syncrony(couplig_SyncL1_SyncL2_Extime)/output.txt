@@ -1,0 +1,2 @@
+1.50	inf	inf	6
+1.51	inf	inf	6
